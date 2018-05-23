@@ -9,7 +9,7 @@ body, html {
 /* The hero image */
 .hero-image {
     /* The image used */
-    background-image: url("Intro.jpg");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9f/Kananaskis.jpg");
 
     /* Set a specific height */
     height: 50%;
