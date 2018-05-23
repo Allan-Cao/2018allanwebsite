@@ -3,10 +3,24 @@
 <head>
   <link rel="icon" sizes="32x32" href="http://picoolio.net/images/2018/05/23/cyan-blue-colour5d8150296bab6b44.jpg">
 </head>
-<body>
+<body onload="Welcome()">
 
-<h1>Welcome to my webste!</h1>
+
 <p>I will be updating this when I have the time (a few weeks). This will be the home of my mobile apps and dumb python programs.</p>
+  
+<script>
+var i = 0;
+var txt = 'Welcome to my website';
+var speed = 50;
 
+function Welcome() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+  
+</script>
 </body>
 </html>
