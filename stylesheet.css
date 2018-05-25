@@ -5,3 +5,7 @@ body {
 body, html {
     height: 100%;
 }
+
+#back {
+    object-fit: cover;
+}
