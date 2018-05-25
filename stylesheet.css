@@ -7,13 +7,8 @@ body {
     background-color: Snow;
 }
 
-body, html {
-    height: 100%;
-}
-
 #back {
-    height:auto;
-    width:auto;
-    object-fit: cover;
+    height: 100%;
+    width: 100%;
     overflow: hidden;
 }
