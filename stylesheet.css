@@ -32,10 +32,22 @@ header nav {
   margin: 0;
   color: #fff;
 }
-.image1 {
-  background-image: url('https://whatsonmyblackboard.files.wordpress.com/2014/10/siskaoct2014.jpg')
-  height: 5vh;
 }
+.jumbotron jumbotron-fluid jumbotron2 {
+  display: flex;
+  align-items: center;
+  background-image: url('https://whatsonmyblackboard.files.wordpress.com/2014/10/siskaoct2014.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center; 
+  color: #ffffff;
+  background-attachment: fixed;
+  height: 75vh;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+  margin-bottom: 20px;
+}
+
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
