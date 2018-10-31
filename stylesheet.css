@@ -25,7 +25,7 @@ header nav {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('allanthedeveloper.me/text.jpg');
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
