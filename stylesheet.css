@@ -32,7 +32,10 @@ header nav {
   margin: 0;
   color: #fff;
 }
-
+.image1 {
+  background-image: url('https://whatsonmyblackboard.files.wordpress.com/2014/10/siskaoct2014.jpg')
+  height: 5vh;
+}
 .jumbotron h3 {
   margin: 0 0 20px;
   color: #fff;
