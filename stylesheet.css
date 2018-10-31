@@ -20,7 +20,7 @@ header nav {
   background-attachment: fixed;
   background-position: center; 
   color: #ffffff;
-  background-attachment: scroll;
+  background-attachment: fixed;
   height: 75vh;
   text-shadow: 0.25px 0.25px 0.25px #000000;
   margin-bottom: 20px;
