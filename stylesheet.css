@@ -12,7 +12,7 @@ header nav {
   justify-content: flex-end;
 }
 
-.jumbo1, .jumbo2 {
+.jumbotron {
   position: relative;
   opacity: 0.65;
   background-attachment: fixed;
@@ -22,12 +22,12 @@ header nav {
   display: flex;
   align-items: center;
 }
-.jumbo1 {
+#jumbo1 {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg');
   height: 75vh;
 }
 
-.jumbo2 {
+#jumbo2 {
   background-image: url("https://whatsonmyblackboard.files.wordpress.com/2014/10/siskaoct2014.jpg");
   min-height: 100%;
 }
