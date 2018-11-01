@@ -23,7 +23,7 @@ header nav {
   align-items: center;
 }
 .jumbo1 {
-  background-image: url("'https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg');
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg');
   height: 75vh;
 }
 
